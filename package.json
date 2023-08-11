@@ -9,8 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.2.5",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/lab": "^5.0.0-alpha.139",
+    "@mui/material": "^5.14.4",
+    "antd": "^5.8.3",
+    "axios": "^1.4.0",
+    "chart.js": "^2.9.4",
+    "chartjs-adapter-moment": "^1.0.1",
+    "moment": "^2.29.4",
     "next": "13.4.13",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-chartjs-2": "^5.2.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "18.2.0",
+    "react-table": "^7.8.0",
+    "recharts": "^2.7.3"
   }
 }
